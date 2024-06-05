@@ -1,0 +1,287 @@
+.te1 {
+    margin-left: 82px;
+}
+
+.sec1 {
+
+    height: 600px;
+    width: 300px;
+}
+
+.teju1 {
+    height: 70px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    margin-top: -17px;
+
+}
+
+.teju1 h1 {
+    margin-left: 80px;
+    padding-top: 16px;
+}
+
+.teju2 {
+    height: 70px;
+    width: 300px;
+    background-color: red;
+    color: white;
+    margin-top: -22px;
+}
+
+.teju2 h1 {
+    margin-left: 80px;
+    padding-top: 15px;
+}
+
+.teju3 {
+    height: 130px;
+    width: 300px;
+    background-color: rgb(67, 126, 214);
+    color: white;
+    margin-top: -24px;
+}
+
+.teju3 h1 {
+    margin-left: 80px;
+    padding-top: 45px;
+}
+
+.teju4 {
+    height: 130px;
+    width: 300px;
+    background-color: rgb(27, 27, 79);
+    color: white;
+    margin-top: -24px;
+}
+
+.teju4 h1 {
+    margin-left: 80px;
+    padding-top: 45px;
+}
+
+.teju5 {
+    height: 95px;
+    width: 300px;
+    background-color: rgb(245, 215, 97);
+    color: white;
+    margin-top: -25px;
+}
+
+.teju5 h1 {
+    margin-left: 80px;
+    padding-top: 27px;
+}
+
+.teju6 {
+    height: 85px;
+    width: 300px;
+    background-color: green;
+    color: white;
+    margin-top: -26px;
+}
+
+.teju6 h1 {
+    margin-left: 80px;
+    padding-top: 22px;
+}
+
+.teju7 {
+    height: 70px;
+    width: 300px;
+    background-color: rgb(0, 255, 242);
+    color: white;
+    margin-top: -25px;
+}
+
+.teju7 h1 {
+    margin-left: 80px;
+    padding-top: 18px;
+}
+
+.sec1 {
+    float: left;
+}
+
+.teju8 {
+    height: 95px;
+    width: 450px;
+    margin-left: 346px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.te2 h1 {
+    margin-top: -59px;
+    margin-left: 500px;
+}
+
+.sec2 {
+    margin-top: -35px;
+}
+
+
+.teju9 {
+    height: 205px;
+    width: 450px;
+    margin-left: 346px;
+    margin-top: -24px;
+    background-color: rgb(67, 126, 214);
+    color: white;
+    padding-top: -20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju10 {
+    height: 379px;
+    width: 120px;
+    margin-left: 346px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -22px;
+    background-color: red;
+    color: white;
+
+}
+
+.teju11 {
+    height: 228px;
+    width: 330px;
+    background-color: rgb(27, 27, 79);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -379px;
+    margin-left: 466px;
+}
+
+.teju12 {
+    height: 95px;
+    width: 330px;
+    background-color: rgb(245, 215, 97);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -25px;
+    margin-left: 466px;
+}
+
+.teju13 {
+    height: 81px;
+    width: 165px;
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 466px;
+}
+
+.teju14 {
+    height: 81px;
+    width: 165px;
+    background-color: rgb(0, 255, 242);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -81px;
+    margin-left: 631px;
+}
+
+.teju15 {
+    height: 67px;
+    width: 250px;
+    background-color: black;
+    color: white;
+    margin-left: 843px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju16 {
+    height: 280px;
+    width: 677px;
+    margin-left: 843px;
+    background-color: rgb(67, 126, 214);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju17 {
+    height: 67px;
+    width: 428px;
+    margin-top: -347px;
+    margin-left: 1092px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju18 {
+    height: 190px;
+    width: 330px;
+    background-color: rgb(27, 27, 79);
+    color: white;
+    margin-left: 843px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 280px;
+}
+
+.teju19 {
+    height: 96px;
+    width: 677px;
+    background-color: rgb(245, 215, 97);
+    color: white;
+    margin-left: 842px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju20 {
+    height: 190px;
+    width: 165px;
+    background-color: green;
+    color: white;
+    margin-top: -286px;
+    margin-left: 1172px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teju21 {
+    height: 190px;
+    width: 185px;
+    background-color: rgb(0, 255, 242);
+    color: white;
+    margin-top: -190px;
+    margin-left: 1335px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.te3{
+    margin-top: -715px;
+    margin-left: 1100px;
+}
